@@ -23,8 +23,8 @@ Atualmente, o sistema permite:
 Para executar o projeto localmente, siga os passos abaixo:
 
 ```bash
-git clone <url-do-repositorio>
-cd <nome-do-projeto>
+git clone <git@github.com:Luiz-Eduardo-Sousa/api-cadastro-php.git>
+cd <api-cadastro-php>
 composer install
 cp .env.example .env
 php artisan key:generate
